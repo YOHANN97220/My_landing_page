@@ -1,0 +1,13 @@
+.btn{
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: all 0.6s ease-in-out;
+}
+
+.btn:hover {
+  color: grey;
+  opacity: 0.1;
+}
